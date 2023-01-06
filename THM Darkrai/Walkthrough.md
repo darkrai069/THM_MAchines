@@ -118,7 +118,7 @@ and this has to the base64 code of the password
 
 and we are in ..... now for the priv esc
 
-![Pasted image 20221224021131.png](https://github.com/darkrai069/My_Machines/blob/main/HTB%20Darkrai/Access/Pasted%20image%2020221224021131.png)
-![Pasted image 20221224021150.png](https://github.com/darkrai069/My_Machines/blob/main/HTB%20Darkrai/Access/Pasted%20image%2020221224021150.png)
+![Pasted image 20221224021131.png](https://github.com/darkrai069/THM_Machines/blob/main/THM%20Darkrai/Access/Pasted%20image%2020221224021131.png)
+![Pasted image 20221224021150.png](https://github.com/darkrai069/THM_Machines/blob/main/THM%20Darkrai/Access/Pasted%20image%2020221224021150.png)
 
 and thats it ......
